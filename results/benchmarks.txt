@@ -1,0 +1,18 @@
+Benchmark Results
+=================
+
+Image: chair.png
+Execution Time: 50.52 seconds
+Peak Memory Usage: 768.27 MB
+Peak VRAM Usage: 17.66 MB
+
+Image: dragons.png
+Execution Time: 60.16 seconds
+Peak Memory Usage: 87.96 MB
+Peak VRAM Usage: 17.44 MB
+
+Image: sea_animal.png
+Execution Time: 56.50 seconds
+Peak Memory Usage: 41.19 MB
+Peak VRAM Usage: 17.42 MB
+
